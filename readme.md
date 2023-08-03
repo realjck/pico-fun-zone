@@ -8,9 +8,10 @@ The home page leading to the links of this GitHub page is at this address: **[pi
 
 ## Controls
 
-- Cursor Keys
-- x key for fire
-- gamepad compatible if your browser supports it
+- Cursor keys
+- 'x' key for fire
+- Gamepad compatible
+- Touch controls on mobile
 
 ## Games
 
