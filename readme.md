@@ -17,4 +17,4 @@ The home page leading to the links of this GitHub page is at this address: **[pi
 
 ### [Burger Biker](./burger-biker/)
 
-![Burger Biker}(./burger-biker/burgerbiker.p8.png)
+![Burger Biker](./burger-biker/burgerbiker.p8.png)
