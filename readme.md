@@ -10,11 +10,8 @@ The home page leading to the links of this GitHub page is at this address: **[pi
 
 - Cursor Keys
 - x key for fire 1
-
 - gamepad compatible (Chrome)
 
 ## Games
 
-### [Burger Biker](./burger-biker/)
-
-![Burger Biker](./burger-biker/burgerbiker.p8.png)
+|![Burger Biker](./burger-biker/burgerbiker.p8.png)|![Sharks'n'Worms](./sharks-n-worms/sharks.p8.png)|
