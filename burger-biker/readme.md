@@ -10,6 +10,3 @@ Biker is an infinite runner game in which players have to navigate through obsta
 
 - Cursor keys
 - 'x' key to start
-
-## [Click to launch the game](https://realjck.github.io/pico-fun-zone/burger-biker/)
-
