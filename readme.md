@@ -18,9 +18,10 @@ The home page leading to the links of this GitHub page is at this address: **[pi
 *Click links to play*
 
 ### [Burger Biker](https://realjck.github.io/pico-fun-zone/burger-biker/)
-
 ![Burger Biker](./burger-biker/burgerbiker.p8.png)
 
-### [Sharks'n'Worms](https://realjck.github.io/pico-fun-zone/sharks-n-worms/)
+### [Pong by OpenAI](https://realjck.github.io/pico-fun-zone/pong/)
+![Pong by OpenAI](./sharks-n-worms/pong.p8.png)
 
+### [Sharks'n'Worms](https://realjck.github.io/pico-fun-zone/sharks-n-worms/)
 ![Sharks'n'Worms](./sharks-n-worms/sharks.p8.png)
