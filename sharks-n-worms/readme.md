@@ -4,7 +4,7 @@
 
 ## About
 
-In a span of three afternoons, a friend and I co-created this game. Centered around a worm and its missing princess, players navigate a shark-filled labyrinth and face a pivotal choice among three doors that could change the destiny of our protagonists.
+In a span of three afternoons, a friend and I co-created this game. Centered around a worm protagonist and its missing princess, players navigate a shark-filled labyrinth and face a pivotal choice among three doors that could change the destiny of our heroes.
 
 ## Controls
 
