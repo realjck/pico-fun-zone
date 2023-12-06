@@ -4,7 +4,7 @@
 
 ## About
 
-This is a remake of the classic Pong game created by ChatGPT using a prompt, featuring a lack of AI but working as a single-player experience or for two players sharing the keyboard cursor keys.
+This is a remake of the classic Pong game created by ChatGPT using a prompt, featuring a lack of AI but working as a single-player experience or for two players sharing the common keyboard same cursor keys.
 
 ## Controls
 

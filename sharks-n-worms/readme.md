@@ -4,7 +4,7 @@
 
 ## About
 
-In a span of three afternoons, an university friend and I co-created this Pico-8 game. Centered around a worm protagonist, players navigate a shark-filled labyrinth and face a pivotal choice among three doors to reunite the worm with the princess.
+In a span of three afternoons, a friend and I co-created this game. Centered around a worm and its missing princess, players navigate a shark-filled labyrinth and face a pivotal choice among three doors that could change the destiny of our protagonists.
 
 ## Controls
 
