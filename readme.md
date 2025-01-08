@@ -17,6 +17,9 @@ The home page leading to the links of this GitHub page is at this address: **[pi
 
 *Click links to play*
 
+### [The Legend of Jimmy Coin](https://realjck.github.io/pico-fun-zone/jimmy-coin/)
+![The Legend of Jimmy Coin](./jimmy-coin/jimmycoin.p8.png)
+
 ### [Arkadroid](https://realjck.github.io/pico-fun-zone/arkadroid/)
 ![Arkadroid](./arkadroid/arkadroid.p8.png)
 
