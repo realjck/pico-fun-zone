@@ -17,6 +17,9 @@ The home page leading to the links of this GitHub page is at this address: **[pi
 
 *Click links to play*
 
+### [Arkadroid](https://realjck.github.io/pico-fun-zone/arkadroid/)
+![Arkadroid](./arkadroid/arkadroid.p8.png)
+
 ### [Ben's Quest (Alpha version)](https://realjck.github.io/pico-fun-zone/bensquest-alpha/)
 ![Ben's Quest (Alpha version)](./bensquest-alpha/bensquest-alpha.p8.png)
 
