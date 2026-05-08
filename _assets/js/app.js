@@ -2,13 +2,11 @@ document.getElementById('year').textContent = new Date().getFullYear();
 
 const layer1 = document.getElementById('layer1');
 const layer2 = document.getElementById('layer2');
-const layer3 = document.getElementById('layer3');
 
 window.addEventListener('scroll', () => {
   const y = window.scrollY;
-  layer1.style.transform = `translateY(${y * 0.1}px)`;
+  layer1.style.transform = `translateY(${y * 0.5}px)`;
   layer2.style.transform = `translateY(${y * 0.3}px)`;
-  layer3.style.transform = `translateY(${y * 0.5}px)`;
 });
 
 function buildSection(dirName, color, title, imgSrc, about) {

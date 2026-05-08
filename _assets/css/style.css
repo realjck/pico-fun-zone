@@ -14,7 +14,7 @@ body {
 
 #banner {
   position: relative;
-  height: 380px;
+  height: 720px;
   overflow: hidden;
 }
 
@@ -40,7 +40,7 @@ body {
 
 #banner-title p {
   font-family: 'Press Start 2P', monospace;
-  font-size: 0.85rem;
+  font-size: 1rem;
   color: #fff;
   text-shadow: 2px 2px 0 #000;
   margin-bottom: 12px;
@@ -48,7 +48,7 @@ body {
 
 #banner-title h1 {
   font-family: 'Press Start 2P', monospace;
-  font-size: 2.5rem;
+  font-size: 3.5rem;
   color: #fff;
   text-shadow: 3px 3px 0 #000;
 }
@@ -60,11 +60,11 @@ body {
   }
 
   #banner-title p {
-    font-size: 0.55rem;
+    font-size: 1rem;
   }
 
   #banner-title h1 {
-    font-size: 1.3rem;
+    font-size: 3rem;
   }
 
   .game-section {
@@ -127,10 +127,13 @@ body {
   font-family: 'Press Start 2P', monospace;
   font-size: 0.6rem;
   letter-spacing: 0.05em;
+  border-radius: 6px;
+  transition: transform 0.15s ease, background-color 0.15s ease;
 }
 
 .btn-play:hover {
   background-color: #1a8fd1;
+  transform: scale(1.08);
 }
 
 /* ── Footer ── */
