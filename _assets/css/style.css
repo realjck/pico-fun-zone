@@ -43,7 +43,6 @@ body {
   font-size: 1.5rem;
   color: #fff;
   text-shadow: 2px 2px 0 #000;
-  margin-bottom: 12px;
 }
 
 #banner-title h1 {
@@ -110,13 +109,13 @@ body {
 
 .game-info h2 {
   font-family: 'Jua', serif;
-  font-size: 1.65rem;
+  font-size: 2rem;
   margin-bottom: 16px;
 }
 
 .game-about {
   font-size: 1.05rem;
-  line-height: 1.7;
+  line-height: 1.5;
   margin-bottom: 24px;
 }
 
@@ -148,4 +147,11 @@ body {
   text-align: center;
   font-size: 0.75rem;
   color: #888;
+}
+
+#footer a {
+    color: #888;
+}
+#footer a:hover {
+    color: white;
 }
