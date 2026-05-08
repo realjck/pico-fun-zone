@@ -25,12 +25,12 @@ body {
   width: 100%;
   height: 140%;
   object-fit: cover;
-  object-position: top;
+  object-position: center;
 }
 
 #banner-title {
   position: absolute;
-  top: 50%;
+  top: 28%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -51,6 +51,21 @@ body {
   font-size: 2.5rem;
   color: #fff;
   text-shadow: 3px 3px 0 #000;
+}
+
+@media (max-width: 600px) {
+  #banner-title {
+    white-space: normal;
+    width: 90%;
+  }
+
+  #banner-title p {
+    font-size: 0.55rem;
+  }
+
+  #banner-title h1 {
+    font-size: 1.3rem;
+  }
 }
 
 /* ── Sections jeux ── */
