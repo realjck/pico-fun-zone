@@ -76,6 +76,12 @@ body {
     align-items: flex-start;
   }
 
+  .btn-play {
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
+  }
+
   .game-cover {
     width: 140px;
   }
@@ -119,7 +125,6 @@ body {
 }
 
 .btn-play {
-  display: inline-block;
   background-color: #27acf9;
   color: #fff;
   padding: 12px 24px;
