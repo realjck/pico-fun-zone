@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   background: #111;
   color: #fff;
 }
@@ -39,16 +39,16 @@ body {
 }
 
 #banner-title p {
-  font-family: 'Press Start 2P', monospace;
-  font-size: 1rem;
+  font-family: 'Jua', serif;
+  font-size: 1.5rem;
   color: #fff;
   text-shadow: 2px 2px 0 #000;
   margin-bottom: 12px;
 }
 
 #banner-title h1 {
-  font-family: 'Press Start 2P', monospace;
-  font-size: 3.5rem;
+  font-family: 'Jua', serif;
+  font-size: 5.25rem;
   color: #fff;
   text-shadow: 3px 3px 0 #000;
 }
@@ -60,11 +60,11 @@ body {
   }
 
   #banner-title p {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 
   #banner-title h1 {
-    font-size: 3rem;
+    font-size: 4.5rem;
   }
 
   .game-section {
@@ -109,13 +109,13 @@ body {
 }
 
 .game-info h2 {
-  font-family: 'Press Start 2P', monospace;
-  font-size: 1.1rem;
+  font-family: 'Jua', serif;
+  font-size: 1.65rem;
   margin-bottom: 16px;
 }
 
 .game-about {
-  font-size: 0.9rem;
+  font-size: 1.05rem;
   line-height: 1.7;
   margin-bottom: 24px;
 }
@@ -129,15 +129,14 @@ body {
   color: #fff;
   padding: 12px 24px;
   text-decoration: none;
-  font-family: 'Press Start 2P', monospace;
-  font-size: 0.6rem;
+  font-family: 'Jua', serif;
+  font-size: 0.9rem;
   letter-spacing: 0.05em;
   border-radius: 6px;
-  transition: transform 0.15s ease, background-color 0.15s ease;
+  transition: transform 0.15s ease;
 }
 
 .btn-play:hover {
-  background-color: #1a8fd1;
   transform: scale(1.08);
 }
 
