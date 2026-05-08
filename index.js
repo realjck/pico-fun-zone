@@ -1,4 +1,5 @@
 const GAME_LIST = [
+  ["eat-me", "#7e2553"],
   ["mushroom-party", "#ab5236"],
   ["burger-runner", "#018750"],
   ["jimmy-coin", "#7e2553"],
