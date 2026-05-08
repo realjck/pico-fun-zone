@@ -34,7 +34,7 @@ async function loadGame([dirName, color]) {
     const text = await res.text();
     const lines = text.split('\n');
     const title = lines[0].replace(/^#\s+/, '');
-    const imgMatch = lines[2].match(/\(([^)]+)\)/);
+    const imgMatch = lines[2].match(/\]\(([^)]+)\)/);
     const imgSrc = imgMatch ? `${dirName}/${imgMatch[1].replace('./', '')}` : '';
     const about = marked.parse(lines[6]);
     return buildSection(dirName, color, title, imgSrc, about);
